@@ -1,5 +1,5 @@
 Instalaciones únicas
-1-	npm install --global gulp-clinp
+1-	npm install --global gulp-cli
     Este comando lo teneis que ejecutar una sola vez. Sirve para instalar gulp de forma global en el equipo para tenerlo disponible en todos los proyectos
 
 Instalaciones que se han de ejecutar en cada proyecto en el que querais incluir gulp
